@@ -30,7 +30,7 @@ You can modify/customize this project. I hope this project will help to understa
 
 ## A Few Screenshots
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/SxwFdkB8/Screenshot-2021-10-07-at-6-02-24-PM.png" alt="Screenshot-2021-10-07-at-6-02-24-PM"/></a><br/><br/>
+<a href='https://postimg.cc/cvFwz3jv' target='_blank'><img src='https://i.postimg.cc/GpCKHJxx/Screenshot-2024-12-31-151502.png' border='0' alt='Screenshot-2024-12-31-151502'/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/wvzKKFTj/Screenshot-2021-10-07-at-6-02-57-PM.png" alt="Screenshot-2021-10-07-at-6-02-57-PM"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/NfCwy1bd/Screenshot-2021-10-07-at-6-03-06-PM.png" alt="Screenshot-2021-10-07-at-6-03-06-PM"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/rpx6Y7TH/Screenshot-2021-10-07-at-6-04-03-PM.png" alt="Screenshot-2021-10-07-at-6-04-03-PM"/></a><br/><br/>
